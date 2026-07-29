@@ -1,0 +1,2 @@
+import ElementaryAlgebraEducationalAspectsCanonicalLaneLean.GateLemmas
+import ElementaryAlgebraEducationalAspectsCanonicalLaneLean.FinalTheorem
